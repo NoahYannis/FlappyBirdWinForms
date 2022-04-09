@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBirdWinForms", "FlappyBirdWinForms\FlappyBirdWinForms.csproj", "{C2E4D213-A2AE-4866-8101-0A0FDC9E39F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bilder", "Bilder", "{C15C69CF-E266-40BC-BE99-200C61293A85}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\flappy-bird-resources\bird.png = ..\..\..\Downloads\flappy-bird-resources\bird.png
+		..\..\..\Downloads\flappy-bird-resources\ground.png = ..\..\..\Downloads\flappy-bird-resources\ground.png
+		..\..\..\Downloads\flappy-bird-resources\pipe.png = ..\..\..\Downloads\flappy-bird-resources\pipe.png
+		..\..\..\Downloads\flappy-bird-resources\pipedown.png = ..\..\..\Downloads\flappy-bird-resources\pipedown.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E4D213-A2AE-4866-8101-0A0FDC9E39F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E4D213-A2AE-4866-8101-0A0FDC9E39F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E4D213-A2AE-4866-8101-0A0FDC9E39F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E4D213-A2AE-4866-8101-0A0FDC9E39F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD52ACC5-B418-4D56-84D2-0671DF8F05E4}
+	EndGlobalSection
+EndGlobal
